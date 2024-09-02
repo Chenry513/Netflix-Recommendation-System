@@ -29,9 +29,6 @@ To run this project, follow these steps:
 
 By following these steps, you will be able to set up and run the Netflix Recommendation System on your local machine.
 
-## Technologies Used
-
-Python, Flask, JavaScript, HTML/CSS, TMDb API, pandas
 
 ## Visual Representation
 
@@ -51,6 +48,16 @@ Here is a visual walkthrough of how the Netflix Recommendation System works:
 
 ### 5. Recommended Movies for You
 ![Recommended Movies](reccomendation.png)
+
+## Technologies Used
+
+- **Python**: For the backend logic and data processing.
+- **Flask**: To create the web framework and serve the application.
+- **JavaScript**: For dynamic content and interactive user interfaces.
+- **HTML/CSS**: For structuring and styling the web pages.
+- **TMDb API**: To fetch detailed movie information like ratings, genres, and cast.
+- **Pandas**: For data manipulation and preprocessing of movie datasets.
+
 
 
 
