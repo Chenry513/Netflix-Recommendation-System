@@ -33,5 +33,25 @@ By following these steps, you will be able to set up and run the Netflix Recomme
 
 Python, Flask, JavaScript, HTML/CSS, TMDb API, pandas
 
+## Visual Representation
+
+Here is a visual walkthrough of how the Netflix Recommendation System works:
+
+### 1. Searching for a Movie
+![Search for a Movie](search_movie.png)
+
+### 2. Viewing Movie Details
+![View Movie Details](view_movie_details.png)
+
+### 3. Viewing Actors & Actresses
+![View Actors & Actresses](cast.png)
+
+### 4. User Reviews
+![User Reviews](reviews.png)
+
+### 5. Recommended Movies for You
+![Recommended Movies](reccomendation.png)
+
+
 
 
