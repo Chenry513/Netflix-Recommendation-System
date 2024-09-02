@@ -29,4 +29,9 @@ To run this project, follow these steps:
 
 By following these steps, you will be able to set up and run the Netflix Recommendation System on your local machine.
 
+##Technologies Used
+
+Python, Flask, JavaScript, HTML/CSS, TMDb API, pandas
+
+
 
